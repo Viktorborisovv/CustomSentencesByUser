@@ -1,0 +1,14 @@
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\bin\Debug\net8.0\CustomSentencesByUser.exe
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\bin\Debug\net8.0\CustomSentencesByUser.deps.json
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\bin\Debug\net8.0\CustomSentencesByUser.runtimeconfig.json
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\bin\Debug\net8.0\CustomSentencesByUser.dll
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\bin\Debug\net8.0\CustomSentencesByUser.pdb
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\CustomSentencesByUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\CustomSentencesByUser.AssemblyInfoInputs.cache
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\CustomSentencesByUser.AssemblyInfo.cs
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\CustomSentencesByUser.csproj.CoreCompileInputs.cache
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\CustomSentencesByUser.dll
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\refint\CustomSentencesByUser.dll
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\CustomSentencesByUser.pdb
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\CustomSentencesByUser.genruntimeconfig.cache
+C:\SoftUni Programming (Fundamentals)\01.CustomSentencesByUser - Project\CustomSentencesByUser\obj\Debug\net8.0\ref\CustomSentencesByUser.dll
